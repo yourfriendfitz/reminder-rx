@@ -1,0 +1,31 @@
+Reminder Rx
+
+user should input list of meds
+user should set when to take meds
+user should set alert preferences
+prompt user when to take meds
+after a set time prompt user inquire if meds were taken
+if meds were not taken on time prompt user again after set time
+user should be able to view history of meds taken on time
+user should be able to view history of meds taken late
+user should be able to view history of meds missed
+user should be able to view list of meds
+user should be able to set quantity of meds 
+prompt user when meds quantity is lower than set amount
+user should be able to set preferred pharmacy for meds
+
+Accessibility
+
+user should be able to change text size
+user should be able to have text dictated
+user should be able to have a physical and tonal alarm
+user should be able to adjust contrast of screen images
+User should be able to input meds info thru a picture taken of meds bottle
+
+Extras
+
+Disclaimer for errors caused to avoid liability
+Amazon Alexa, Google Assistant support
+API for medicines for an autocomplete list when entering
+add access to caregivers
+extra tools for diabetics i.e. blood sugar
